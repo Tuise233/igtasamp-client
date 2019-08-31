@@ -7,7 +7,3 @@
 * 支持发消息并修正发消息乱码 CGame->SendChat
 * 支持发送命令CGame->SendCommand
 * 用法直接判断的函数 CGame->SendMC
-<br/>
---- 原github ---
-<br/>
-https://github.com/4x11/SAMP-Android
