@@ -1,4 +1,4 @@
-# SAMP安卓版
+# IGTASAMP Android Client
 * 支持自定义 `IP ` `端口 ` `玩家名称`
 * 已修复血量获取不准确问题
 * 修复不显示钱的问题
